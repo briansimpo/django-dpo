@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "django_dpo"
+name = "django-dpo"
 keywords = ["django payment", "django dpo", "dpo", "payment", "payment gateway"]
 version = "0.0.1"
 
