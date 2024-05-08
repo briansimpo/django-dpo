@@ -15,7 +15,7 @@ dependencies = [
 authors = [
     {name="Brian Simpokolwe", email="briansimpokolwe@gmail.com"}
 ]
-description = "A django DPO gateway integration"
+description = "Django DPO Gateway Integration"
 readme = "README.md"
 requires-python = ">=3.10"
 classifiers = [
