@@ -5,7 +5,7 @@ build-backend = "hatchling.build"
 [project]
 name = "django-dpo"
 keywords = ["django payment", "django dpo", "dpo", "payment", "payment gateway"]
-version = "0.0.1"
+version = "0.0.2"
 
 dependencies = [
   "requests",
