@@ -25,5 +25,5 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/briansimpo/django_dpo"
-Issues = "https://github.com/briansimpo/django_dpo/issues"
+Homepage = "https://github.com/briansimpo/django-dpo"
+Issues = "https://github.com/briansimpo/django-dpo/issues"
