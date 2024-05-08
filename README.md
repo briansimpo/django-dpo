@@ -20,8 +20,8 @@ Detailed documentation is in the "docs" directory.
 2. Include DPO Settings in your project `settings.py` like this::
 
 ```python
-
-    DPO_END_POINT = "https://secure.3gdirectpay.com/API/v6/"
+	
+	DPO_END_POINT = "https://secure.3gdirectpay.com/API/v6/"
 	DPO_PAYMENT_URL = "https://secure.3gdirectpay.com/payv2.php"
 	DPO_COMPANY_TOKEN = "<your-company-token-from-dpo>"
 	DPO_PAYMENT_CURRENCY = "<preferred currency>"
